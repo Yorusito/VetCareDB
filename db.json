@@ -1,0 +1,72 @@
+{
+  "appointment": [
+    {
+      "id": 1,
+      "title": "Consulta Veterinaria",
+      "description": "Exámenes físicos.",
+      "published": true
+    },
+    {
+      "id": 2,
+      "title": "Vacunaciones",
+      "description": "Administración de vacunas para prevenir enfermedades.",
+      "published": false
+    },
+    {
+      "id": 3,
+      "title": "Cuidado de Urgencias",
+      "description": "Atención médica inmediata para emergencias.",
+      "published": false
+    },
+    {
+      "id": 4,
+      "title": "Cita urgente",
+      "description": "Atencion inmediata",
+      "published": true
+    }
+  ],
+  "faq": [
+    {
+      "title": "Consulta Veterinaria",
+      "description": "Exámenes físicos."
+    },
+    {
+      "title": "Vacunaciones",
+      "description": "Administración de vacunas para prevenir enfermedades."
+    },
+    {
+      "title": "Cuidado de Urgencias",
+      "description": "Atención médica inmediata para emergencias."
+    },
+    {
+      "title": "Cita urgente",
+      "description": "Atencion inmediata"
+    },
+    {
+      "title": "A",
+      "description": "A"
+    }
+  ],
+  "data": [
+    {
+      "id": 1,
+      "question": "Consulta Veterinaria",
+      "answer": "Exámenes físicos."
+    },
+    {
+      "id": 2,
+      "question": "Vacunaciones",
+      "answer": "Administración de vacunas para prevenir enfermedades."
+    },
+    {
+      "id": 3,
+      "question": "Cuidado de Urgencias",
+      "answer": "Atención médica inmediata para emergencias."
+    },
+    {
+      "id": 4,
+      "question": "Cita urgente",
+      "answer": "Atencion inmediata"
+    }
+  ]
+}
