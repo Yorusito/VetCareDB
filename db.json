@@ -68,5 +68,63 @@
       "question": "Cita urgente",
       "answer": "Atencion inmediata"
     }
+  ],
+  "products" : [
+    {
+      "id" : 1,
+      "name": "Purina Pro Plan",
+      "description": "Veterinary Diets Canine HA Hypoallergenic 2KG",
+      "price": "99.00",
+      "image": "https://www.petsland.pe/assets/img/store/404.webp?1679466594"
+    },
+    {
+      "id" : 2,
+      "name": "Canbo Adulto",
+      "description": "Canbo Adulto Cordero Razas Medianas y Grandes 15KG",
+      "price": "242.80",
+      "image": "https://static.wixstatic.com/media/2a7708_769604746e3148369edce286fd59baf4~mv2.png/v1/fill/w_600,h_600,al_c,lg_1,q_85,enc_auto/2a7708_769604746e3148369edce286fd59baf4~mv2.png"
+    },
+    {
+      "id" : 3,
+      "name": "Nutram Cat",
+      "description": "S5 SOUND ADULT & SENIOR CAT 1.13KG",
+      "price": "84.00",
+      "image": "https://static.wixstatic.com/media/2a7708_ac1cf2619cb04b3e9b5476cc48427ff6~mv2.jpg/v1/fill/w_675,h_675,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2a7708_ac1cf2619cb04b3e9b5476cc48427ff6~mv2.jpg"
+    },
+    {
+      "id" : 4,
+      "name": "Antipulgas Nexgard",
+      "description": "Nexgard 4 a 10KG 3UND.",
+      "price": "148.00",
+      "image": "https://static.wixstatic.com/media/2a7708_c86ea68fd5844b6ab83412cb9832502b~mv2.png/v1/fill/w_666,h_666,al_c,q_90,enc_auto/2a7708_c86ea68fd5844b6ab83412cb9832502b~mv2.png"
+    },
+    {
+      "id" : 5,
+      "name": "Brit Animals",
+      "description": "Brit Rabbit Adult Care Animals Adulto para conejo 1.5KG",
+      "price": "70.00",
+      "image": "https://static.wixstatic.com/media/2a7708_47a658c5aa194ffc9e61fd69b239ee6e~mv2.jpg/v1/fill/w_675,h_900,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2a7708_47a658c5aa194ffc9e61fd69b239ee6e~mv2.jpg"
+    },
+    {
+      "id" : 6,
+      "name": "Lata Purina",
+      "description": "Felix Adulto Paté de pavo y menudencias Lata 156GR",
+      "price": "5.00",
+      "image": "https://www.petsland.pe/assets/img/store/6.webp?1679467065"
+    },
+    {
+      "id" : 7,
+      "name": "Shampoo Zoovet",
+      "description": "Clorhexidina 20% 350ML",
+      "price": "60.00",
+      "image": "https://www.petsland.pe/assets/img/store/19.webp?1679466089"
+    },
+    {
+      "id" : 8,
+      "name": "Purina Pro Plan",
+      "description": "Veterinary Diets Feline HA Hypoallergenic 1.5KG",
+      "price": "99.00",
+      "image": "https://www.petsland.pe/assets/img/store/403.webp?1679466592"
+    }
   ]
 }
