@@ -50,6 +50,7 @@
   "pets": [
     {
      "id": 1,
+    "type": "Dog",
     "name": "Toffy",
     "breed": "Chusco",
     "weight": 12.5,
