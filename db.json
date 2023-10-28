@@ -47,6 +47,16 @@
       "answer": "Para ver las opiniones de otros usuarios sobre una veterinaria, busca la veterinaria en la aplicación y desplázate hacia abajo hasta encontrar la sección de opiniones. Allí, podrás leer lo que otros usuarios han dicho sobre sus experiencias."
     }
   ],
+  "pets": [
+    {
+     "id": 1,
+    "name": "Toffy",
+    "breed": "Chusco",
+    "weight": 12.5,
+    "size": 6.4,
+    "color": "Marron
+    }
+  ],
   "products" : [
     {
       "id" : 1,
