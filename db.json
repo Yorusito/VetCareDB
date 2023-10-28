@@ -27,28 +27,6 @@
   ],
   "faq": [
     {
-      "title": "Consulta Veterinaria",
-      "description": "Exámenes físicos."
-    },
-    {
-      "title": "Vacunaciones",
-      "description": "Administración de vacunas para prevenir enfermedades."
-    },
-    {
-      "title": "Cuidado de Urgencias",
-      "description": "Atención médica inmediata para emergencias."
-    },
-    {
-      "title": "Cita urgente",
-      "description": "Atencion inmediata"
-    },
-    {
-      "title": "A",
-      "description": "A"
-    }
-  ],
-  "data": [
-    {
       "id": 1,
       "question": "¿Cómo puedo ver los servicios que ofrece una veterinaria en particular?",
       "answer": "Para ver los servicios que ofrece una veterinaria en particular, puedes hacer clic en la ficha de la veterinaria en la aplicación y desplazarte hacia abajo para ver los servicios que ofrece.."
