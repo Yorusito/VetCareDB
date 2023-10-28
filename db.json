@@ -50,23 +50,23 @@
   "data": [
     {
       "id": 1,
-      "question": "Consulta Veterinaria",
-      "answer": "Exámenes físicos."
+      "question": "¿Cómo puedo ver los servicios que ofrece una veterinaria en particular?",
+      "answer": "Para ver los servicios que ofrece una veterinaria en particular, puedes hacer clic en la ficha de la veterinaria en la aplicación y desplazarte hacia abajo para ver los servicios que ofrece.."
     },
     {
       "id": 2,
-      "question": "Vacunaciones",
-      "answer": "Administración de vacunas para prevenir enfermedades."
+      "question": "¿Cómo puedo ver los servicios que ofrece una veterinaria en particular?",
+      "answer": "Para ver los servicios que ofrece una veterinaria en particular, puedes hacer clic en la ficha de la veterinaria en la aplicación y desplazarte hacia abajo para ver los servicios que ofrece.."
     },
     {
       "id": 3,
-      "question": "Cuidado de Urgencias",
-      "answer": "Atención médica inmediata para emergencias."
+      "question": "¿Cómo puedo buscar una veterinaria cercana a mi ubicación?",
+      "answer": "Para buscar una veterinaria cercana a tu ubicación, simplemente abre la aplicación y permite el acceso a tu ubicación. Luego, podrás ver todas las veterinarias cercanas a ti en un mapa."
     },
     {
       "id": 4,
-      "question": "Cita urgente",
-      "answer": "Atencion inmediata"
+      "question": "¿Cómo puedo ver las opiniones de otros usuarios sobre una veterinaria?",
+      "answer": "Para ver las opiniones de otros usuarios sobre una veterinaria, busca la veterinaria en la aplicación y desplázate hacia abajo hasta encontrar la sección de opiniones. Allí, podrás leer lo que otros usuarios han dicho sobre sus experiencias."
     }
   ],
   "products" : [
